@@ -1,7 +1,6 @@
 package TestEmployee;
 
 use Test::Roo::Role;
-use MooX::Types::MooseLike::Base qw/Str HashRef/;
 
 with 'TestPerson';
 
